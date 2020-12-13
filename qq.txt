@@ -2,6 +2,6 @@
 ccc
 dev
 sta
-partner add
+my add
 
 
