@@ -2,4 +2,5 @@
 ccc
 dev
 sta
+partner add
 
